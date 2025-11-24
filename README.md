@@ -55,6 +55,8 @@ Rather than aiming to be a polished consumer product, the goal is to **learn by 
 - Reads multiple analogue inputs (joysticks / potentiometers)
 - Supports additional inputs (toggle switches and push buttons)
 - wireless communication to the flight controller
+- Stick calibration procedure
+- Battery monitoring
 - Expandable design for telemetry and configuration features
 - Built using the Arduino framework for rapid development
 - Designed to integrate with DIY drone and robotics projects
